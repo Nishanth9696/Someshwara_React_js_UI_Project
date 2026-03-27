@@ -70,9 +70,8 @@ This project highlights my ability to enhance UI/UX while maintaining design con
 
 **Nishanth K**
 
-- UI/UX Designer & Frontend Developer
+- Software Developer and Engineer
 
-🌐 Portfolio: [https://nisfolio.framer.website/](https://nisfolio.framer.website/)
 💼 LinkedIn: [https://www.linkedin.com/in/nishanth-k-8870241331nk/](https://www.linkedin.com/in/nishanth-k-8870241331nk/)
 
 ---
